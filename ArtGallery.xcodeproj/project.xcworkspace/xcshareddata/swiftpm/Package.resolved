@@ -1,0 +1,15 @@
+{
+  "originHash" : "ceb1943e0ff65e5aa0cc2219293277b8f996961dac959f2efe42c1670e4c6d27",
+  "pins" : [
+    {
+      "identity" : "swiftuistaggeredlist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alfianlosari/SwiftUIStaggeredList",
+      "state" : {
+        "revision" : "9959404cf5b068dbee26ed36d1c14bece3a97cf1",
+        "version" : "0.1.4"
+      }
+    }
+  ],
+  "version" : 3
+}
