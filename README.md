@@ -8,6 +8,12 @@ This iOS app, built with SwiftUI, loads data of artworks and artists from a JSON
 - SwiftUI Framework
 - StaggeredList Package (https://github.com/alfianlosari/SwiftUIStaggeredList)
 
+## Acknowledgements
+
+Resources for the project were provided by Ko Sann Lynn Htun (https://github.com/sannlynnhtun-coding/).
+
+[Art Gallery Resources](https://github.com/burma-project-ideas/art-gallery)
+
 ## Images
 
 ### Light Theme
