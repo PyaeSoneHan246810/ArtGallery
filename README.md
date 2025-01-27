@@ -1,4 +1,4 @@
-# News iOS App
+# Art Gallery iOS App
 
 This iOS app, built with SwiftUI, loads data of artworks and artists from a JSON file and displays it with the beautiful UI design.
 
